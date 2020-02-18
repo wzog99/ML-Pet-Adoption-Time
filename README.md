@@ -16,4 +16,4 @@ Predicting whether the adoption of a pet would take over or under 30 days.
 ### TO-DO's
 - Apply NLP to description field to vectorize and encode impact on adoption times
 - Look into how computer vison (CNN) can improve model predictions 
->>>>>>> origin/master
+
